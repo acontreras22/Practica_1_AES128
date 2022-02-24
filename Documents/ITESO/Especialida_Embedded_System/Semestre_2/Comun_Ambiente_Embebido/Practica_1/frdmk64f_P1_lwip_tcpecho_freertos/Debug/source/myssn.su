@@ -1,0 +1,3 @@
+../source/myssn.c:12:13:InitCrc32	32	static
+../source/myssn.c:26:6:send_task	744	static
+../source/myssn.c:58:6:recv_task	736	static
